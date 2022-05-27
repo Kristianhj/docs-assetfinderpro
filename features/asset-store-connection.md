@@ -1,2 +1,0 @@
-# Asset Store Connection
-

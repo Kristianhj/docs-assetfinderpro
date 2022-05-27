@@ -1,46 +1,37 @@
 # Asset Finder PRO
 
 {% hint style="info" %}
-SmartBuilder is a level design tool which uses smart algorithms to find the assets you need based on the current selected context. i.e. if you select a pirate ship prefab, SmartBuilder will show you other ships, and other pirate related props. SmartBuilder is 100% plug and play - no setup required.
+Favorites PRO is a Unity tool that allows to build levels and content much faster. It allows you to store and search your favorites, while also maintaining a detailed history of your actions, allowing you to find assets you’ve recently used. Thirdly Favorites PRO also allows to see what assets are most recently used in the current scene, again speeding up the process of finding the assets you need, when you need it.
 {% endhint %}
 
 Check out a video overview of SmartBuilder:
 
-{% embed url="https://www.youtube.com/watch?v=O8PZFflOFlE" %}
-SmartBuilder - Level Design Tool
+{% embed url="https://youtu.be/pw3cJ2x1SOg" %}
+Asset Finder PRO
 {% endembed %}
 
 ## Who is this for?
+Would you like to speed up level building?
+Do you sometimes have a hard time finding the asset/script file you are looking for?
+Do you have a number of assets it would be great to have at the tip of your fingers?
 
-* Level designers and Environment artist
-* Anyone building a scene containing props and prefabs
-* Anyone tired of finding the relevant assets in the project view
-* Anyone who has bought big 2D/3D asset packs
-* Anyone who wants an easy and powerfull way to replace prefabs 
-* Anyone who wants Default Prefab Parent tooling _(Unity 2021 and newer)_
+If any of the above applies, then Asset Finder PRO is the tool for you!
 
-## Features
+## What does it do?
+Asset Finder PRO is a tool that will ease your daily workflow building content and levels. This is done in 3 distinct ways:
 
-* Shows relavants assets
-* Drag and Drop directly from SmartBuilder window
-* Works with both 2D and 3D
-* Works with all asset packs (If they are meaningfully named)
-* High level of usability
-* Replace selected prefab
-* Set and clear Default Prefab Parent (Unity 2021 and Newer)
-* Replace ALL prefabs of selected type
-* Allows you to customize components to keep when replacing assets
-* Finds related assets using linguistic morphology metrics
-* Persistent History and Favorites feature
-* Hooks into Asset Store to help you find the assets you need
-* Customizable asset previews
-* Customizable UI
-* Customizable algorithm
+* A comprehensive automatic history of all the assets you have been using recently, which allows you to quickly find the things you use the most.
 
-## How does this work?
+* A list of your own favorites for easy access (Both folders and individual assets)
 
-Smartbuilder gives you a intutitive window with a list of context sensitive assets - i.e. if you are building a forest, it gives you a grid of vegetation prefabs and if you are building a Village it gives you a grid of houses. It will reflect your selection, and always show you the most relevant prefabs and allow you to drag directly into the scene. It does this by analyzing the filename, directory, tags and labels of your assets.
+* A list of all the prefabs being used in current scene. That allows you to quickly find anything often used in a specific scene.
+
+These 3 methods will allow you to speed up your level building and content creation, and not spend time searching through obscure folders to find the assets you need.
+
+## Does it support multiple users?
+Asset Finder PRO is built to support multi-user development, automatically creating custom favorites for each team member, while also supporting a painless version control workflow.
+You are also able to copy favorites from other profiles, allowing for shared profiles that multiple team members can benefit from.
 
 ## Where can I get this?
 
-Get it from the [Unity Asset Store](https://prf.hn/click/camref:1011l4Izm/pubref:Documentation/ar:Main/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Fslug%2F206777)
+Get it from the [Unity Asset Store](https://assetstore.unity.com/packages/tools/level-design/smartbuilder-206777#description)

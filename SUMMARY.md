@@ -8,17 +8,16 @@
 
 ## Features
 
-* [Tweaking the results](features/tweaking-the-results.md)
-* [History](features/history.md)
-* [Favorites](features/favorites.md)
-* [Settings](features/settings.md)
-* [Inspector](features/inspector.md)
-* [Default Prefab Parent](features/default-prefab-parent.md)
-* [Asset Store Connection](features/asset-store-connection.md)
+* [Nesting the window](guides/nesting-the-window.md)
+* [Favorites](guides/favorites.md)
+* [Searching](guides/searching.md)
+* [History](guides/history.md)
+* [Scene Data](guides/scenedata.md)
+* [Preferences](guides/preferences.md)
+* [Profiles](guides/profiles.md)
 
 ## Extras
 
-* [Screenshots](extras/screenshots.md)
 * [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
 
 ***
