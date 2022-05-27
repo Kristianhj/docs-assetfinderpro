@@ -1,5 +1,8 @@
 # Asset Finder PRO : Favorites and History
 
+## [1.7.7]
+- Moved to UPM Package format
+
 ## [1.7.6]
 - Fixed faulty link
 
