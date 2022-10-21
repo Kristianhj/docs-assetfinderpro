@@ -1,5 +1,8 @@
 # Asset Finder PRO : Favorites and History
 
+## [1.7.9]
+- Improved Icon loading
+
 ## [1.7.8]
 - Fixed issue with Upgrader being Editor Only
 
