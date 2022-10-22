@@ -1,5 +1,8 @@
 # Asset Finder PRO : Favorites and History
 
+## [1.7.10]
+- Added menuitem in Tools
+
 ## [1.7.9]
 - Improved Icon loading
 
