@@ -1,5 +1,8 @@
 # Asset Finder PRO : Favorites and History
 
+## [1.7.11]
+- Now able to load icons outside packages
+
 ## [1.7.10]
 - Added menuitem in Tools
 
