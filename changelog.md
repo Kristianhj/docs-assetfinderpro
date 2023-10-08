@@ -1,5 +1,11 @@
 # Asset Finder PRO : Favorites and History
 
+## [1.7.13]
+- Conditional fix for Unity misspelled a GUI.skin skyle in 2020
+
+## [1.7.12]
+- Fixed menu path reference
+
 ## [1.7.11]
 - Now able to load icons outside packages
 
