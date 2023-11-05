@@ -1,5 +1,8 @@
 # Asset Finder PRO : Favorites and History
 
+## [1.7.14]
+- Fixed warnings in Unity2023
+
 ## [1.7.13]
 - Conditional fix for Unity misspelled a GUI.skin skyle in 2020
 
