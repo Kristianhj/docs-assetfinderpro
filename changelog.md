@@ -1,5 +1,8 @@
 # Asset Finder PRO : Favorites and History
 
+## [1.7.15]
+- [Minor] Utility changes
+
 ## [1.7.14]
 - Fixed warnings in Unity2023
 
