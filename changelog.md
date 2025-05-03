@@ -1,4 +1,4 @@
-# Asset Finder PRO : Favorites and History
+﻿# Asset Finder PRO : Favorites and History
 
 ## [1.7.16]
 - Changed CenteredMessage GUIStyle
