@@ -1,5 +1,8 @@
 ﻿# Asset Finder PRO : Favorites and History
 
+## [1.7.17]
+- Fixed Obsolete warnings in 6000.3
+
 ## [1.7.16]
 - Changed CenteredMessage GUIStyle
 
